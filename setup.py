@@ -50,12 +50,12 @@ def get_long_description():
 
 
 setup(
-    name='TwitterFollowBot',
+    name='tweetBOT',
     version=version_git,
-    author='Randal S. Olson',
-    author_email='rso@randalolson.com',
+    author='waploaj',
+    author_email='waploaj@icloud.com',
     packages=find_packages(),
-    url='https://github.com/rhiever/TwitterFollowBot',
+   
     license='GNU/GPLv3',
     description=('A Python bot that automates several actions on Twitter, '
                  'such as following users and favoriting tweets.'),
